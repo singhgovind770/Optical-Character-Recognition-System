@@ -13,10 +13,10 @@ To install this API, follow these steps:
 
 Clone the repository to your local machine:
 
-git clone https://github.com/example/ocr-image-upload-api.git
+git clone https://github.com/singhgovind770/Optical-Character-Recognition-System
 
 **Change into the project directory:**
-cd ocr-image-upload-api
+cd Optical-Character-Recognition-System
 
 **Install the required dependencies:**
 npm install
@@ -35,10 +35,10 @@ This endpoint accepts an image file upload with the key avatar. The API will per
 
 **Dependencies**
 This API relies on the following dependencies:
+express,
+multer,
+body-parser,
+tesseract.js,
 
-express
-multer
-body-parser
-tesseract.js
 License
 This API is licensed under the MIT License. See the LICENSE file for details.
