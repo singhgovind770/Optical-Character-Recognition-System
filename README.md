@@ -1,4 +1,4 @@
-# Optical Character Recognition - Node.js
+# Optical Character Recognition System using Node.js, express.js, tesseract.js, body-parser and multer
 
 OCR Image Upload API
 This is an API for performing optical character recognition (OCR) on images uploaded by the user. It uses the Tesseract.js library for performing OCR and the Multer library for handling file uploads.
